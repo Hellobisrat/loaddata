@@ -22,3 +22,18 @@
   width: 20px;
   height: 20px;
 }
+
+.button {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* No border */
+  color: white; /* White text */
+  padding: 15px 32px; /* Some padding */
+  text-align: center; /* Centered text */
+  text-decoration: none; /* No underline */
+  display: flex; /* Make the element inline-block */
+  justify-content: center;
+  font-size: 16px; /* Increase font size */
+  margin: auto; /* Some margin */
+  cursor: pointer; /* Pointer/hand icon */
+  border-radius: 12px; /* Rounded corners */
+}
